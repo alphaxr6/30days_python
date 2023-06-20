@@ -23,8 +23,7 @@ print(year)
 print(is_married)
 print(is_true)
 print(is_light_on)
-
-
+print('')
 print(second_name)
 print(last_second_name)
 print(second_age)
