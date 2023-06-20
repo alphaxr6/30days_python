@@ -35,8 +35,9 @@ print('')
 
 num_one = 5
 num_two = 4
+summ = [num_one, num_two]
 
-total = sum(5, 4)
+total = sum(summ)
 print(total)
 
 diff = num_two - num_one
