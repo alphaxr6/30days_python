@@ -31,9 +31,27 @@ print(second_is_married)
 print('')
 print(len(first_name))
 print(len(first_name), 'and', len(last_name))
+print('')
 
 num_one = 5
 num_two = 4
 
-total = num_one + num_two
+total = sum(5, 4)
 print(total)
+
+diff = num_two - num_one
+print(diff)
+
+product = num_one * num_two
+print(product)
+
+division = num_one / num_two
+print(division)
+
+remainder = num_two % num_one
+print(remainder)
+
+exp = num_one ** num_two
+print(exp)
+
+floor_division = num_one // num_two
