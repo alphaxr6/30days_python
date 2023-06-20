@@ -15,7 +15,7 @@ print(num_str)
 print(type(num_str))
 
 num_str = '10.4'
-print('num_int', int(num_str, base=3))
+print('num_int', int(float(num_str)))
 print('num_float', float(num_str))
 
 first_name = 'Asabeneh'
