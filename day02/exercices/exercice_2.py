@@ -28,3 +28,12 @@ print(second_name)
 print(last_second_name)
 print(second_age)
 print(second_is_married)
+print('')
+print(len(first_name))
+print(len(first_name, 'and', len(last_name)))
+
+num_one = 5
+num_two = 4
+
+total = num_one + num_two
+print(total)
