@@ -1,3 +1,5 @@
+from math import pi
+
 print('Day 2: 30 Days of python programming')
 
 first_name = 'Thomas'
@@ -60,5 +62,5 @@ print(floor_division)
 
 print('')
 radius_circle = 30
-area_of_circle = 3,14 * (radius_circle**2)
+area_of_circle = pi*(radius_circle**2)
 print(area_of_circle)
