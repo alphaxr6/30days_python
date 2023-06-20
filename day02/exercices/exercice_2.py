@@ -64,3 +64,14 @@ print('')
 radius_circle = 30
 area_of_circle = pi*(radius_circle**2)
 print(area_of_circle)
+
+circum_of_circle = 2*pi*radius_circle
+print(circum_of_circle)
+
+r = int(input('What is the radius value ? '))
+
+C = 2*pi*r
+A = pi*(r**2)
+
+print(C)
+print(A)
