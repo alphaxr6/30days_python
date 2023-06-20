@@ -75,3 +75,14 @@ A = pi*(r**2)
 
 print(C)
 print(A)
+
+print('self service id')
+
+personnal_name = str(input('whats your personnale name ?'))
+personnal_last_name = str(input('whats your personnal last name'))
+country = str(input('where do you live ?'))
+age = int(input('what is your age'))
+
+
+
+print(personnal_name, personnal_last_name, country, age)
