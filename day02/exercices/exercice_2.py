@@ -30,7 +30,7 @@ print(second_age)
 print(second_is_married)
 print('')
 print(len(first_name))
-print(len(first_name, 'and', len(last_name)))
+print(len(first_name), 'and', len(last_name))
 
 num_one = 5
 num_two = 4
