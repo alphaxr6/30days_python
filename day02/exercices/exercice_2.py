@@ -56,3 +56,9 @@ exp = num_one ** num_two
 print(exp)
 
 floor_division = num_one // num_two
+print(floor_division)
+
+print('')
+radius_circle = 30
+area_of_circle = 3,14 * (radius_circle**2)
+print(area_of_circle)
