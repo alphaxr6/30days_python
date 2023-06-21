@@ -26,3 +26,17 @@ print(len('python'))
 print(len('dragon'))
 
 print(len('python') is not len('dragon'))
+
+print('on' in 'python' and 'dragon')
+
+print('jargon' in 'I hope this course is not full of jargon')
+
+print('on' is not 'python' and 'dragon')
+
+python = len(str('python'))
+python_float = float(python)
+python_string = str(python_float)
+
+hours = input('Enter hours: ')
+rate = input('Enter rate: ')
+print('Your weekly earning is: ', hours * rate)
