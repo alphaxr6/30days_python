@@ -2,8 +2,8 @@ age = int(29)
 height = float(1.72)
 complex = complex(1j + 3)
 
-base_triangle = input('Enter base: ')
-height_triangle = input('Enter height: ')
+base_triangle = input(int('Enter base: '))
+height_triangle = input(int('Enter height: '))
 area_triangle = 0.5 * height_triangle * base_triangle
 
 print('The are of the triangle is :', area_triangle)
