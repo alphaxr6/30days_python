@@ -16,4 +16,21 @@ print('a * b = ', product)
 print('a / b = ', division)
 print('a % b = ', remainder)
 print('a // b = ', floor_division)
-print(' a ** b = ', exponential)
+print('a ** b = ', exponential)
+
+print('== Addition, Substraction, Multiplication, Division, Modulus ==')
+
+num_one = 3
+num_two = 4
+
+total = num_one + num_two
+diff = num_two - num_one
+product = num_one * num_two
+div = num_two / num_one
+remainder = num_two % num_one
+
+print('Total: ', total)
+print('Difference: ', diff)
+print('Product: ', product)
+print('Division: ', div)
+print('Remainder: ', remainder)
