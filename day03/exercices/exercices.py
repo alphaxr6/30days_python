@@ -17,3 +17,7 @@ print('The perimeter is: ', perimeter)
 lenght_rectangle = input('Enter Lenght: ')
 width_rectable = input('Enter width: ')
 print('The area of the rectable is: ', int(lenght_rectangle) * int(width_rectable), 'and the perimeter is: ', 2 * (int(lenght_rectangle) + int(width_rectable)))
+
+
+radius = input('Enter radius: ')
+print('Area is :', 3.14 * float(radius) * float(radius), 'and the circumference: ', 2 * 3.14 * float(radius))
