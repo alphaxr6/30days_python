@@ -21,3 +21,8 @@ print('The area of the rectable is: ', int(lenght_rectangle) * int(width_rectabl
 
 radius = input('Enter radius: ')
 print('Area is :', 3.14 * float(radius) * float(radius), 'and the circumference: ', 2 * 3.14 * float(radius))
+
+print(len('python'))
+print(len('dragon'))
+
+print(len('python') is not len('dragon'))
