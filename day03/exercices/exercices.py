@@ -11,7 +11,7 @@ print('The are of the triangle is :', area_triangle)
 side_a = input('Enter side a: ')
 side_b = input('Enter side b: ')
 side_c = input('Enter side c: ')
-perimeter = side_a + side_b + side_c
+perimeter = int(side_a) + int(side_b) + int(side_c)
 print('The perimeter is: ', perimeter)
 
 lenght_rectangle = input('Enter Lenght: ')
