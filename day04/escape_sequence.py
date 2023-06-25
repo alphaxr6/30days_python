@@ -1,0 +1,8 @@
+print('I hope everyine is enjoying the Python Challenger. \nAre you ?')
+print('Days\tTopics\tExercises')
+print('Day 1\t3\t5')
+print('Day 2\t3\t5')
+print('Day 3\t3\t5')
+print('Day 4\t3\t5')
+print('This is a backlash symbole (\\)')
+print('In every programming language it starts with \"Hello, world!\"')
