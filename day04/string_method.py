@@ -97,6 +97,6 @@ challenge = 'Thirty Days Of Python'
 print(challenge.swapcase())
 
 challenge = 'thirty days of python'
-print(challenge.startswitch('thirty'))
+print(challenge.startswith('thirty'))
 challnege = '30 days of ptyhon'
 print(challenge.startswith('thirty'))
