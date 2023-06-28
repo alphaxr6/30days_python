@@ -20,7 +20,7 @@ print(challenge.rfind('th'))
 
 sub_string = 'da'
 print(challenge.index(sub_string))
-print(challenge.index(sub_string, 9))
+#print(challenge.index(sub_string, 9))
 
 print(challenge.rindex(sub_string))
 #print(challenge.rindex(sub_string, 9))
