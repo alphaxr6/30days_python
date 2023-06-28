@@ -6,7 +6,7 @@ print(challenge.count('y', 7, 14))
 print(challenge.count('th'))
 
 print(challenge.endswith('on'))
-print(challenge.enswith('tion'))
+print(challenge.endswith('tion'))
 
 challenge = 'thirty\tdays\tof\tpython'
 print(challenge.expandtabs())
