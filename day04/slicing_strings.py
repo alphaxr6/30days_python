@@ -15,6 +15,6 @@ print(greeting[::-1])
 
 #Skipping characters
 
-pto = language[0:3:6]
+pto = language[0:6:2]
 print(pto)
 
