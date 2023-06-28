@@ -23,7 +23,7 @@ print(challenge.index(sub_string))
 print(challenge.index(sub_string, 9))
 
 print(challenge.rindex(sub_string))
-print(challenge.rindex(sub_string, 9))
+#print(challenge.rindex(sub_string, 9))
 
 challenger = 'thirtydayspython'
 print(challenge.isalnum())
