@@ -5,7 +5,7 @@ all_fruits_alt = fruits[0:]
 print(all_fruits)
 print(all_fruits_alt)
 
-orange_and_mango = fruits[1:2]
+orange_and_mango = fruits[1:3]
 orange_mango_lemon = fruits[1:]
 orange_and_lemon = fruits[::2]
 
