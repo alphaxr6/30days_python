@@ -24,3 +24,5 @@ print('Web technologies:', web_techs)
 print('Number of web tech:', len(web_techs))
 print('Countries:', countries)
 print('Number of countries:', len(countries))
+
+lst = ['Thomas', 345, True, {'country':'Finland', 'city':'Helsinki'}]
