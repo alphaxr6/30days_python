@@ -26,3 +26,4 @@ print('Countries:', countries)
 print('Number of countries:', len(countries))
 
 lst = ['Thomas', 345, True, {'country':'Finland', 'city':'Helsinki'}]
+print(lst)
