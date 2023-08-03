@@ -43,4 +43,4 @@ print(sorted(fruits))
 
 fruits = ['banana', 'orange', 'mango', 'lemon']
 fruits = print(sorted(fruits, reverse=True))
-prints(fruits)
+print(fruits)
