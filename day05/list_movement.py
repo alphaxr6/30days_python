@@ -50,4 +50,4 @@ print('integers:', negative_numbers)
 fruits = ['banana', 'orange', 'mango', 'lemon']
 vegetables = ['Tomato', 'Potato', 'Cabbage', 'Onion', 'Carrot']
 fruits.extend(vegetables)
-print('fruits and vegetables:', vegetables)
+print('fruits and vegetables:', fruits)
