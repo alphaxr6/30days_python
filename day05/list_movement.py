@@ -20,7 +20,6 @@ print(fruits_copy)
 
 #Joining
 # + operator
-list3 = list1 + list2
 
 positive_numbers = [1, 2, 3, 4, 5]
 zero = [0]
