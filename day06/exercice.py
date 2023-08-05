@@ -45,6 +45,6 @@ print(food_stuff_tp[3:5])
 print('5')
 print(food_stuff_tp[0:3])
 
-print(food_stuff_tp[-4:-1])
+print(food_stuff_tp[-3:])
 
 del food_stuff_tp
