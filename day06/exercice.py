@@ -22,7 +22,7 @@ print(type(siblings))
 print('6')
 print(len(siblings))
 last_index = len(siblings) - 1
-before = last_index - 1
+before = last_index - 2
 
-parents = siblings[last_index:before]
+parents = siblings[before:last_index]
 print(parents)
