@@ -20,5 +20,6 @@ print(siblings)
 print(type(siblings))
 
 print('6')
+print(len(siblings))
 last_index = len(siblings) - 1
-print(parents[last_index])
+print(siblings[last_index])
