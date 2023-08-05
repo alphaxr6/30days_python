@@ -27,4 +27,24 @@ before = last_index - 1
 parents = siblings[before:]
 print(parents)
 
-print(parents[:before])
+
+print('7')
+
+fruits = ('banana', 'lemon', 'mango')
+vegetables = ('beets', 'asparagus', 'cabbages')
+animal_products = ('eggs', 'meats', 'milk')
+
+food_stuff_tp = fruits + vegetables + animal_products
+
+food_stuff_lt = list(food_stuff_tp)
+print(type(food_stuff_tp))
+
+print('4')
+print(food_stuff_tp[3:5])
+
+print('5')
+print(food_stuff_tp[0:3])
+
+print(food_stuff_tp[-4:-1])
+
+del food_stuff_tp
