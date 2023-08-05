@@ -18,3 +18,10 @@ siblings.extend(parents)
 siblings = tuple(siblings)
 print(siblings)
 print(type(siblings))
+
+print('6')
+parents = siblings[-1:-2]
+print(parents)
+
+del siblings[-1:-2]
+print(siblings)
