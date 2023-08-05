@@ -26,3 +26,5 @@ before = last_index - 1
 
 parents = siblings[before:]
 print(parents)
+
+print(parents[:before])
