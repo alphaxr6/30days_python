@@ -12,7 +12,9 @@ print('4')
 print(len(siblings))
 
 print('5')
+print(type(siblings))
 siblings = list(siblings)
+print(type(siblings))
 parents = ['Papa', 'Maman']
 siblings = siblings.extend(parents)
 print(siblings)
