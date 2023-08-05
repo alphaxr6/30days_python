@@ -13,5 +13,5 @@ print(len(siblings))
 
 print('5')
 family_update = list(siblings)
-family_members_tmp = family_update.append('Papa', 'Maman')
+family_members_tmp = family_update.extend('Papa', 'Maman')
 family_members = tuple(family_members_tmp)
