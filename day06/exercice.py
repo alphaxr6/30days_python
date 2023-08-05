@@ -20,8 +20,5 @@ print(siblings)
 print(type(siblings))
 
 print('6')
-parents = siblings[-1:-2]
+parents = siblings[-1:-3]
 print(parents)
-
-del siblings[-1:-2]
-print(siblings)
