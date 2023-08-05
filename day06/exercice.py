@@ -16,7 +16,7 @@ print(type(siblings))
 siblings = list(siblings)
 print(type(siblings))
 parents = ['Papa', 'Maman']
-siblings = siblings.extend(parents)
+siblings.extend(parents)
 print(siblings)
 print(type(siblings))
 siblings = tuple(siblings)
