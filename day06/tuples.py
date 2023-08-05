@@ -5,7 +5,7 @@ tpl = ('item1', 'item2', 'item3')
 
 fruits = ('banana', 'orange', 'mango', 'lemon')
 
-len(fruits)
+print(len(fruits))
 
 first_fruit = fruits[0]
 second_fruit = fruits[1]
