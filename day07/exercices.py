@@ -26,30 +26,23 @@ print(it_companies)
 
 print('Exercice 2')
 print('1')
-union = A.union(B)
-print(union)
+print(A.union(B))
 
 print('2')
-inter = A.intersection(B)
-print(inter)
+print(A.intersection(B))
 
 print('3')
-subset = A.issubset(B)
-print(subset)
+print(A.issubset(B))
 
 print('4')
-disjoin = A.isdisjoint(B)
-print(disjoin)
+print(A.isdisjoint(B))
 
 print('5')
-A_and_B = A.union(B)
-B_and_A = B.union(A)
-print(A_and_B)
-print(B_and_A)
+print(A.union(B))
+print(B.union(A))
 
 print('6')
-symmetric = A.symmetric_difference(B)
-print(symmetric)
+print(A.symmetric_difference(B))
 
 print('7')
 del A
