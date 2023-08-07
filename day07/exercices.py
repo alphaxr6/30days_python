@@ -26,7 +26,7 @@ print(it_companies)
 
 print('Exercice 2')
 print('1')
-A.join(B)
+A.union(B)
 print(A)
 
 print('2')
