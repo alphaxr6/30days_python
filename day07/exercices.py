@@ -47,3 +47,8 @@ print(A.symmetric_difference(B))
 print('7')
 del A
 del B
+
+print('Exercice 3')
+print('1')
+print(len(age))
+print(len(set(age)))
