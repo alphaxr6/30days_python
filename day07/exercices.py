@@ -26,7 +26,7 @@ print(it_companies)
 
 print('Exercice 2')
 print('1')
-print(A.union(B))
+print(A.update(B))
 
 print('2')
 print(A.intersection(B))
